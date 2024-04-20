@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithrovina" alt="faithrovina" /></a> </p>
 
-- 🔭 I’m currently working on **Chore Management Platform**
+- 🔭 I’m currently working on **Online Food Ordering**
 
 - 🌱 I’m currently learning **React, Angular**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faith rovina ngala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faith rovina ngala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faith-rovina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faith rovina ngala" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/faithrovina_nga1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faithrovina_nga1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/faith rovina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faith rovina" height="30" width="40" /></a>
 </p>
